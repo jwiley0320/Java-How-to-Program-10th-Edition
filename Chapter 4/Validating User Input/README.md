@@ -1,2 +1,2 @@
 # Validating-User-Input
-chapter 4 Exercise 4.18 "Java How to Program 10th Edition"
+chapter 4 Exercise 4.24 "Java How to Program 10th Edition"
